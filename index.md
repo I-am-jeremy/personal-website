@@ -7,7 +7,8 @@ I will be working as a Undergarduate learning assistant for an introductory phys
 ### Markdown
 For fun I enjoy hiking, camping and all sorts of other outdoor activities. (see pictures (add pictures)). I also enjoy playing chess, writting and learning in general.
 
-```markdown
+
+[website things](```markdown
 ```Syntax highlighted code block
 
 ```# Header 1
@@ -33,4 +34,5 @@ For fun I enjoy hiking, camping and all sorts of other outdoor activities. (see 
 
 ```### Support or Contact
 
-```Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) ```and we’ll help you sort it out.
+```Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) ```and we’ll help you sort it out.)
+)
