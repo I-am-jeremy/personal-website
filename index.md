@@ -1,8 +1,8 @@
 ## Welcome to My WebPage
 
-This is the link to the website: https://github.com/I-am-jeremy/personal-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Jeremy Rebenstock and I am currently an undergraduate student at Michigan State University Majoring in Physics and Mathematics with an expected garduation of May 2023. I do research on Electron capture reactions of Thermally excited Neculei at the Facility for Rare Isotope Beams under the guidance of Remco Zegers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I will be working as a Undergarduate learning assistant for an introductory physics mechanics course this year.
 
 ### Markdown
 
